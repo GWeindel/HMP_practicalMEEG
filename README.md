@@ -15,3 +15,8 @@ Folder Organization:
 - PracticalMEEG_2025_talk.pdf contains the slides
 - the tutorials are all the .ipynb. We will start with "Applying_HMP_to_real_data.ipynb"
 
+
+# To preprocess you own data:
+
+Take a look at this set of scripts, it might help you to get started, don't hesitate to email me or to create an issue on GitHub:
+[https://github.com/GWeindel/hmp_preprocessing](https://github.com/GWeindel/hmp_preprocessing)
